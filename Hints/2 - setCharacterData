@@ -1,0 +1,1 @@
+You just need to declare this function, at the same time that you're declaring the characterData state. You need to do anything else with the function. Don't overthink it! And if you're still unclear on what to do, check out the first hint. 

@@ -1,0 +1,182 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: start;
+	font-family: 'New Rocker', cursive;
+	background: #555555;
+	width: 100vw;
+	height: 100vh;
+	padding-top: 5px;
+	user-select: none;
+}
+
+.wrapper {
+	width: 242px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.overall-status-bars-container {
+	display: flex;
+	gap: 23px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.indiv-stat-bar-container {
+	height: 31.5px;
+	width: 64px;
+	border: 1px solid black;
+	background: lightgray;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.stat-bar-fill {
+	background: lightgreen;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.stat-name-container {
+	display: flex;
+	justify-content: center;
+	color: lightgray;
+	margin-top: 5px;
+	font-size: 14px;
+}
+
+span {
+	position: absolute;
+	font-size: 15px;
+	z-index: 1;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+}
+
+.character-container {
+	background-image: url(./images/countryside-background.png);
+	background-size: cover;
+	height: 214px;
+    width: 100%;
+	background-position: 50% 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-end;
+	border-radius: 10px;
+	position: relative;
+	border: 8.5px solid #222221;
+}
+
+.character-name {
+	position: absolute;
+	font-size: 13px;
+	background: lightgray;
+	padding: 5px;
+	border-radius: 10px;
+	bottom: 34px;
+	border: 3px solid black;
+}
+
+img {
+	width: 112px;
+	margin-left: 29px;
+	margin-bottom: 64px;
+	filter: brightness(1.4)
+}
+
+.options-container {
+	background: #11111162;
+	width: 100%;
+    height: 100%;
+    max-width: 100%;
+	color: lightblue;
+	height: 191px;
+	border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 8.5px 0;
+    padding: 8.5px;
+}
+
+h3 {
+	color: lightgray;
+	font-size: 15px;
+	margin: 0 0 8.5px 0;
+}
+
+.options-container div {
+	display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+    height: 100%;
+	font-size: 13.5px;
+	display: flex;
+	flex-direction: column;
+    align-content: space-between;
+	justify-content: space-between;
+	padding: 8.5px;
+}
+
+ul:last-of-type {
+    text-align: right;
+}
+
+.options-container li:hover {
+	filter: brightness(1.2);
+	cursor: pointer;
+}
+
+button {
+	user-select: none;
+	height: 38px;
+	width: 95px;
+	border: none;
+	background: #2AA64D;
+	color: lightgray;
+	font-size: 18px;
+	font-weight: bold;
+	transition: 0.2s;
+	border-radius: 5px;
+	opacity: 1;
+	letter-spacing: 1px;
+	box-shadow: #494b4b 0px 7px 2px, #000 0px 8px 5px;
+	font-family: 'New Rocker', cursive;
+}
+
+button:hover {
+	cursor: pointer;
+	opacity: .8
+}
+
+button:active {
+	top: 4px;
+	opacity: 1;
+	box-shadow: #494b4b 0px 3px 2px, #000 0px 3px 5px;
+}
+
+button:focus:not(:focus-visible) {
+	outline: 0;
+}
+

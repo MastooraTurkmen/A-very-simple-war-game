@@ -1,0 +1,5 @@
+Remember the general format for this: 
+
+    const [someStateName, setSomeStateName] = React.useState(yourValueHere)
+    
+Now just plug in the actual names and value from the instructions! (In this case, the value is an object with a bunch of properties and values inside of it.)
