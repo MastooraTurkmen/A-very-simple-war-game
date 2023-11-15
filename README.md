@@ -26,3 +26,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 ![Alt text](charactor-1.png)
 
 ![Alt text](charactor-2.png)
+
+![Alt text](charactor-3.png)
