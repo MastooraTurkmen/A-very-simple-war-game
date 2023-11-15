@@ -20,9 +20,9 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ## About the Site
 
-**_1. By Clicking Toggle you can change different kinds of charactors_**
+**_1. By Clicking Toggle you can change different kinds of characters_**
 
-**_2. By changing charactors the names and all other apperncess also change_**
+**_2. By changing characters the names and all other appearances also change_**
 
 ![Alt text](./screenshots/charactor-1.png)
 
