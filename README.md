@@ -1,6 +1,6 @@
 # 🥷 War Game
 
-> A very simple computer games which you can just toggle and appears lots of characters.
+> A very simple computer game which you can just toggle and appears lots of characters.
 
 **_1. By Clicking Toggle you can change different kinds of characters_**
 
