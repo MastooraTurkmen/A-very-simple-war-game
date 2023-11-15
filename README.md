@@ -2,8 +2,6 @@
 
 > A very simple computer games which you can just toggle and appears lots of characters.
 
-> https://a-very-simple-war-game.netlify.app/
-
 **_1. By Clicking Toggle you can change different kinds of characters_**
 
 **_2. By changing characters the names and all other appearances also change_**
