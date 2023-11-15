@@ -24,3 +24,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 **_2. By changing charactors the names and all other apperncess also change_**
 
 ![Alt text](charactor-1.png)
+
+![Alt text](charactor-2.png)
