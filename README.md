@@ -46,3 +46,4 @@ Head over to https://vitejs.dev/ to learn more about using vite
     + [JavaScript](https://github.com/topics/javascript)
 
 2. **Tools** 
+    + [Chrome](https://github.com/topics/chrome)
