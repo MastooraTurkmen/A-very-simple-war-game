@@ -19,3 +19,6 @@ $ pnpm start
 Head over to https://vitejs.dev/ to learn more about using vite
 
 ## About the Site
+
+**_1. By Clicking Toggle you can change different kinds of charactors_**
+**_2. By changing charactors the names and all other apperncess also change_**
