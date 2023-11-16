@@ -48,7 +48,7 @@ $ git clone https://github.com/MastooraTurkmen/A-very-simple-war-game.git
 $ cd A-very-simple-war-game
 ```
 
-
+# React + Vite
 
 
 
