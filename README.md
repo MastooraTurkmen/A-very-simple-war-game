@@ -15,9 +15,7 @@
 -----
 
 
-
 ## Before you Begin 🛠 🔨
-
 
 Quick start:
 
@@ -47,6 +45,8 @@ $ git clone https://github.com/MastooraTurkmen/A-very-simple-war-game.git
 # Go inside the repository
 $ cd A-very-simple-war-game
 ```
+
+-------
 
 
 ## Languages and Tools are used
