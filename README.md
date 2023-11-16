@@ -12,9 +12,12 @@
 
 ![Alt text](./screenshots/charactor-3.png)
 
----
+-----
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+
+
+## Before you Begin 🛠 🔨
+
 
 Quick start:
 
@@ -33,6 +36,10 @@ $ pnpm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
+
+-----
+
 
 
 ## Languages and Tools are used
