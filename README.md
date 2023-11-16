@@ -45,6 +45,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 $ git clone https://github.com/MastooraTurkmen/A-very-simple-war-game.git
 
 # Go inside the repository
+$ cd A-very-simple-war-game
 ```
 
 
