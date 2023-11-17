@@ -70,6 +70,8 @@ $ cd A-very-simple-war-game
 
 ## Deployment📥
 
+1. How to deploy our project to the Netlify site?
+
 
 
 
