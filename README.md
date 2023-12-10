@@ -60,7 +60,8 @@ $ cd A-very-simple-war-game
     + [React](https://github.com/topics/react)
     + [JavaScript](https://github.com/topics/javascript)
 
-2. **Tools** 
+2. **Tools** 🔧
+
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
